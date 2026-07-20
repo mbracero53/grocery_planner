@@ -61,7 +61,7 @@ fun MainScreen(
     viewModel: GroceryViewModel
 ){
     val navController = rememberNavController()
-    val startDestination = Destination.Recipes
+    val startDestination = Destination.MealPlan
     var selectedDestination by rememberSaveable { mutableIntStateOf(startDestination.ordinal) }
 
     Scaffold(
