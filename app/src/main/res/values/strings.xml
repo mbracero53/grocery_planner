@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">Grocery Planner</string>
+    <string name="app_name">Simple Grocery Planner</string>
+    <string name="placeholderText">Placeholder Text</string>
+
+    //Meals Screen
+    <string name="mealScreenTopBarText">This Week</string>
+    <string name="calendarButtonMonday">Mon</string>
+    <string name="calendarButtonTuesday">Tue</string>
+    <string name="calendarButtonWednesday">Wed</string>
+    <string name="calendarButtonThursday">Thu</string>
+    <string name="calendarButtonFriday">Fri</string>
+    <string name="calendarButtonSaturday">Sat</string>
+    <string name="calendarButtonSunday">Sun</string>
+    <string name="mealsCardHeaderText">Meals</string>
+    <string name="listCardHeaderText">Shopping List</string>
+
+    //Recipes screen
+    <string name="recipeScreenTopBarText">Recipes</string>
+    <string name="addRecipeTopBarBackText">Back</string>
+    <string name="addNewRecipeName">Recipe Name</string>
+    <string name="addNewIngredients">Ingredients</string>
+    <string name="addNewRecipeNameFieldLabel">Name</string>
+    <string name="ingredientNameFieldLabel">Ingredient</string>
+    <string name="storeNameFieldLabel">Store</string>
+
+
 </resources>
